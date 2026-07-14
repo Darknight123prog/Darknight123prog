@@ -1,82 +1,48 @@
 <h1 align="center">Hi 👋, I'm Satish Kumar Gupta</h1>
-
-<h3 align="center">🚀 Aspiring Software Engineer | MERN Developer | Open Source Contributor</h3>
+<h3 align="center">🚀 Full Stack MERN Developer | AI Automation Builder | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;DSA+Enthusiast;AI+Automation+Builder;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;AI+Automation+Builder;DSA+%26+LeetCode+Enthusiast;Open+Source+Contributor" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/satish-kumar-gupta-404152341/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Darknight123prog"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:satishkumargupta6658@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 💫 About Me
 
-- 🎓 B.Tech Electrical Engineering @ NIT Agartala
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning System Design & Advanced DSA
-- 🤖 Building AI Automation Workflows using n8n
-- 🏆 LeetCode Max Rating: **1489**
-- 📫 Reach me: **satishkumargupta6658@gmail.com**
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>B.Tech Electrical Engineering</b> @ NIT Agartala</li>
+        <li>💻 Passionate about building robust, scalable <b>Full Stack Web Applications</b></li>
+        <li>🌱 Deep diving into <b>System Design</b> & Advanced Data Structures</li>
+        <li>🤖 Creating intelligent, self-sustaining <b>AI Automation Workflows</b> using n8n</li>
+        <li>🏆 Competitive Programming: LeetCode Max Rating <b>1489</b></li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darknight123prog&theme=tokyo-night&bg_color=00000000&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect With Me
+## 💻 Tech Stack & Tools
 
 <p align="left">
-<a href="https://www.linkedin.com/in/satish-kumar-gupta-404152341/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Darknight123prog">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://leetcode.com/u/satish_Kumar_Gupta9693128/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
-</a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,react,nodejs,express,mongodb,html,css,git,github,postman,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Darknight123prog&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknight123prog&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Darknight123prog&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Darknight123prog&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 LeetCode
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/satish_Kumar_Gupta9693128?theme=dark&font=Karma" />
+  <b>Languages:</b><br>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts" /><br><br>
+  <b>Frontend & Backend Frameworks:</b><br>
+  <img src="https://skillicons.dev/icons?i=react,html,css,nodejs,express,mongodb" /><br><br>
+  <b>DevOps & Software Tools:</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
@@ -84,33 +50,59 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI Recruitment Outreach Automation
-- Built using **n8n, OpenAI API, Gmail API, Apify**
-- Automated recruiter discovery and personalized outreach
+> *Powered by n8n, OpenAI API, Gmail API, and Apify*
+* Automated developer-to-recruiter identity discovery pipelines.
+* Built dynamic engines generating deeply hyper-personalized cold outreach emails based on live target profiles.
 
-### 🛒 ACHORA AUREA
-- AI Powered MERN E-Commerce Platform
-- Authentication, Payments, Orders & Recommendations
+### 🛒 ACHORA AUREA — AI E-Commerce Platform
+> *Built using the Full MERN Stack*
+* Features secure production-ready User Authentication, secure Payment Gateway integration, and dynamic Order Management.
+* Integrated intelligent product recommendation loops based on user click flows.
 
-### 📊 LeetMetric
-- LeetCode Statistics Dashboard
-- Built using JavaScript and APIs
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Darknight123prog/Darknight123prog/blob/output/github-contribution-grid-snake.svg)
+### 📊 LeetMetric — API Analytics Dashboard
+> *Built with Vanilla JavaScript & REST APIs*
+* Designed a responsive dashboard visualizing real-time analytical problem-solving performance metrics via public API fetches.
 
 ---
 
-### ⚡ Fun Fact
+## 📊 Developer Metrics & Stats
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Darknight123prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darknight123prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=Darknight123prog&theme=tokyonight&hide_border=true&background=00000000" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://leetcode.com/u/satish_Kumar_Gupta9693128/">
+        <img src="https://leetcard.jacoblin.cool/satish_Kumar_Gupta9693128?theme=dark&font=Karma" width="95%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Activity Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Darknight123prog/Darknight123prog/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%" />
+</p>
+
+---
+
+### ⚡ Developer Philosophy
 
 ```cpp
-while(!success){
+while (!success) {
     learn();
     build();
     improve();
 }
-```
-
-⭐ From [Darknight123prog](https://github.com/Darknight123prog)
